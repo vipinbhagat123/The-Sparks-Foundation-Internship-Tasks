@@ -1,4 +1,4 @@
-# The-Sparks-Foundation-Internship-Tasks
+ # The-Sparks-Foundation-Internship-Tasks
 
 Data Science & Business Analytics Internship
 This repository is dedicated to the completion of all my tasks from The Sparks Company Internship. I will be updating the tasks I perform as a Data Science and Business Analytics intern at a singapore based company: The Sparks Limited.
@@ -13,3 +13,4 @@ Predict the optimum number of clusters, from the given "iris" dataset and repres
 
 Task 3 - Exploratory Data Analysis - Retail
 Perform Ã¢â‚¬ËœExploratory Data AnalysisÃ¢â‚¬â„¢ on dataset Ã¢â‚¬ËœSampleSuperstoreÃ¢â‚¬â„¢ I will be doing this with the help of python libraries i.e. matplotlib and seaborn. As a Business Analytics intern, I tried to find out the weak areas where we can work to make more profit. Also, tried to find out business problems can be derived by exploring the data.
+ 
